@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+xgboost
+fairlearn
+shap
+lime
+fastapi
+uvicorn
+python-multipart
+matplotlib
+seaborn
+jinja2
